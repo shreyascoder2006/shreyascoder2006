@@ -4,9 +4,9 @@
 
 ### TY AI & Data Science @ DJSCE Mumbai
 
-**Full Stack Developer · Automation Engineer · Hackathon Enthusiast**
+**Full Stack Developer · Automation Engineer · ML Engineer **
 
-`Python` `JavaScript` `Full Stack` `Automation` `Email Systems` `AI & Data Science`
+`Python` `Java` `React `JavaScript` `Full Stack` `Automation` `PyTorch ` `Tensorflow` `Email Systems` `AI & Data Science`
 
 <br/>
 
