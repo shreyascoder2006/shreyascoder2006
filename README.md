@@ -170,22 +170,17 @@ I'm **Shreyas Kale**, an engineering student passionate about building practical
 
 ## 📂 Featured Projects
 
+### 📧 Mail Wizz
+Architecture and implementation of an **Email Sequencing Module** — built as part of a B2B SaaS sales intelligence and outreach automation platform, covering scheduling, queuing, and delivery infrastructure.
+* **Focus:** Node.js/MongoDB • Redis • BullMQ • SMTP/IMAP • Distributed Systems
+---
+### 🎬 MoodBoard.ai
+An **Agentic AI-driven platform** that autonomously discovers trending audio, tracks niche competitors, and generates high-retention scripts, captions, and visual assets for Instagram Posts & Reels. Unlike standard prompt-based generators, this platform utilizes a **multi-agent architecture** (Trend Scout, Brand Strategist, Creative Director, and Performance Analyst) to continuously optimize your social media strategy and deliver production-ready content briefs entirely on autopilot.
+* **Focus:** Multi-Agent Systems • GenAI • Social Media Automation • Content Strategy
+---
 ### 🛡️ SENTINEL — Phishing Detection System
 An intelligent phishing detection system designed to analyze potentially malicious content using a **hybrid detection approach** involving machine learning and risk analysis.
 * **Focus:** Machine Learning • Cybersecurity • NLP • Backend Systems
-
----
-
-### 🧠 JAVA-DSA
-A collection of **Data Structures and Algorithms** implementations and problem-solving practice using Java.
-* **Focus:** Java • DSA • Problem Solving • Competitive Programming
-
----
-
-### 🚀 Hackathon Projects
-A collection of projects built during hackathons, focusing on rapid development, teamwork, real-world problem solving, and innovative solutions.
-* **Focus:** Rapid Prototyping • Full Stack • AI/ML • Collaboration
-
 ---
 
 ## 📊 GitHub Stats
