@@ -65,7 +65,7 @@ I'm **Shreyas Kale**, an engineering student passionate about building practical
 ## 🏆 Hackathon Achievements
 
 <p align="center">
-  <b>🏆 3× Hackathon Winner | 💻 Competitive Builder | 🚀 Hackathon Finalist</b>
+  <b>🏆 5× Hackathon Winner | 💻 Competitive Builder | 🚀 Hackathon Finalist</b>
 </p>
 
 <div align="center">
