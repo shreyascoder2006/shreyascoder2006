@@ -65,16 +65,19 @@ I'm **Shreyas Kale**, an engineering student passionate about building practical
 ## 🏆 Hackathon Achievements
 
 <p align="center">
-  <b>🏆 5× Hackathon Winner | 💻 Competitive Builder | 🚀 Hackathon Finalist</b>
+  <b>🏆 7× Hackathon Winner | 💻 Competitive Builder | 🚀 Hackathon Finalist</b>
 </p>
 
 <div align="center">
 
 | 🏅 Achievement | 🏛️ Event / Institution |
 | :--- | :--- |
+| 🥇 **1st Place / Winner** | **Fusion 2026 @ SKNCOE** |
+| 🥇 **Hackathon Winner** | **DA-ICT** |
 | 🥇 **Hackathon Winner** | **PCCOE College of Engineering, Pune** |
 | 🥇 **Hackathon Winner** | **Thakur College, Kandivli** |
 | 🥇 **Hackathon Winner** | **PICT, Pune — Online Hackathon** |
+| 🥉 **3rd Place** | **IIT Pune** |
 | 🌟 **Top 8 Finalist** | **SPIT Mumbai Codeathon** |
 | 🏅 **8th Place** | **College-Level ICPC Contest** |
 
@@ -206,6 +209,7 @@ An intelligent phishing detection system designed to analyze potentially malicio
 🧠 Improving Data Structures & Algorithms
 ⚙️ Creating Automation Solutions
 🚀 Building and participating in Hackathons
+```
 
 ---
 
