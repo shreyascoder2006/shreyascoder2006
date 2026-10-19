@@ -1,45 +1,25 @@
 <div align="center">
 
 # Hi 👋, I'm Shreyas Kale
-
-### AI & Data Science Student @ DJSCE Mumbai | Full Stack Developer | ML Engineer
+### 🚀 GenAI & Full Stack Developer | AI & Data Science @ DJSCE Mumbai | 7× Hackathon Winner
 
 <p align="center">
+  <a href="https://shreyas-six.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-shreyas--six.vercel.app-FF5A1F?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
+  </a>
+  <a href="mailto:shreyaskale06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-shreyaskale06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://shreyas-six.vercel.app/assets/Shreyas_Kale_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View_PDF-2F6BFF?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
   <a href="https://github.com/shreyascoder2006">
-    <img src="https://komarev.com/ghpvc/?username=shreyascoder2006&label=Profile%20Views&color=6B21A8&style=flat-square" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=shreyascoder2006&label=Profile%20Views&color=6B21A8&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
 
----
-
-### 🌐 Connect with me:
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/shreyascoder2006" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:shreyascoder2006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://codeforces.com/profile/YOUR_CODEFORCES_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-</p>
+> *“I don't build demos. I build the thing that actually ships.”*  
+> **LLM Agents • Resilient Distributed Backends • Intuitive Frontends**
 
 <br/>
 
@@ -51,176 +31,192 @@
 
 ## 👨‍💻 About Me
 
-I'm **Shreyas Kale**, an engineering student passionate about building practical technology solutions and turning ideas into real-world projects.
+I'm an **Artificial Intelligence & Data Science** student at **Dwarkadas J. Sanghvi College of Engineering (DJSCE), Mumbai** (CGPA: **9.20**). I spend most of my time building agentic systems and full-stack platforms — autonomous LLM workflows that do real work, backends that don't crumble under pressure, and interfaces that make complex data immediately understandable.
 
-- 🎓 Studying **Artificial Intelligence & Data Science** at **DJSCE, Mumbai**
-- 🤖 Interested in **Machine Learning, AI, and Intelligent Systems**
-- 🌐 Building **responsive full-stack applications**
-- ⚙️ Exploring **automation and backend systems**
-- 💡 Love building practical solutions to real-world problems
-- 🧠 Continuously improving my skills in **DSA, ML, and software development**
+- 🎓 **Undergrad**: B.Tech in AI & Data Science @ **DJSCE, Mumbai** (2024–2028)
+- 🏆 **Track Record**: **7× Hackathon Winner** | **1× Case-Study Winner** | **Top 8 ICPC (College Level)**
+- 💼 **Industry Experience**: AI Product Intern at **Cloud Lead Technologies** | Ex-Finance Analyst at **Candor Investing**
+- 🤖 **Specialization**: Autonomous Agents (LangChain, CrewAI, AutoGen), High-Throughput Backends (FastAPI, Node.js, Redis, BullMQ), and Full Stack Platforms (React 19, Next.js)
+- 💡 **Core Rule**: A working end-to-end prototype beats a 50-slide deck every single time.
 
 ---
 
-## 🏆 Hackathon Achievements
+## 🏆 Hackathon & Competition Podiums
 
 <p align="center">
-  <b>🏆 7× Hackathon Winner | 💻 Competitive Builder | 🚀 Hackathon Finalist</b>
+  <b>🏆 7× Hackathon Winner | 💻 Competitive Builder | 🚀 Top 8 ICPC Finalist</b>
 </p>
 
 <div align="center">
 
-| 🏅 Achievement | 🏛️ Event / Institution |
-| :--- | :--- |
-| 🥇 **1st Place / Winner** | **Fusion 2026 @ SKNCOE** |
-| 🥇 **Hackathon Winner** | **DA-ICT** |
-| 🥇 **Hackathon Winner** | **PCCOE College of Engineering, Pune** |
-| 🥇 **Hackathon Winner** | **Thakur College, Kandivli** |
-| 🥇 **Hackathon Winner** | **PICT, Pune — Online Hackathon** |
-| 🥉 **3rd Place** | **IIT Pune** |
-| 🌟 **Top 8 Finalist** | **SPIT Mumbai Codeathon** |
-| 🏅 **8th Place** | **College-Level ICPC Contest** |
+| 🏅 Podium | 🏛️ Event / Institution | 💡 Project / Focus |
+| :--- | :--- | :--- |
+| 🥇 **Winner (1st Place)** | **Fusion 2026** (SKNCOE) | Smart Systems & Automation |
+| 🥇 **Winner** | **Hack-Out ’26** (DA-IICT Gandhinagar) | **Nexus Carbon** — Circular Carbon Intelligence |
+| 🥇 **Winner** | **Craft Verse 2.0** (PCCOER, Pune) | Real-World Agentic Engineering |
+| 🥇 **Winner** | **Zenith 1.0** (Sathaye College, Mumbai) | AI Campus Monitoring & Analytics |
+| 🥇 **Winner** | **PCCOE Hackathon** (PCCOE, Pune) | Predictive AI & Rapid Prototyping |
+| 🥇 **Winner** | **Thakur College Hackathon** (Kandivli, Mumbai) | Full-Stack Intelligent Platforms |
+| 🥇 **Winner** | **PICT Hackathon** (PICT, Pune) | High-Performance Web & ML |
+| 🥉 **3rd Place** | **IIT Pune Hackathon** | Intelligent Data & Decision Systems |
+| 🌟 **Top 8 Finalist** | **SPIT Codeathon 2025** (SPIT, Mumbai) | Algorithmic Problem Solving |
+| 🏅 **Top 8** | **ICPC Contest 2025** (DJ Sanghvi College-Level) | Competitive Programming |
 
 </div>
 
-> 🚀 I enjoy solving real-world problems, building under pressure, collaborating with talented teams, and transforming ideas into working prototypes within tight deadlines.
+---
 
-### 🎯 Key Skills from Hackathons
+## 💼 Work Experience
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Rapid%20Prototyping-Developer-blue?style=for-the-badge" alt="Rapid Prototyping" />
-  <img src="https://img.shields.io/badge/Team-Collaboration-success?style=for-the-badge" alt="Team Collaboration" />
-  <img src="https://img.shields.io/badge/Problem-Solving-orange?style=for-the-badge" alt="Problem Solving" />
-  <img src="https://img.shields.io/badge/Product-Thinking-purple?style=for-the-badge" alt="Product Thinking" />
+- **AI Product Intern** — [Cloud Lead Technologies](https://shreyas-six.vercel.app/) *(Dec 2025 – Present)*
+  - Built autonomous AI customer support and lead automation agents utilizing **LangChain**, **CrewAI**, **AutoGen**, and **FastAPI**.
+  - Engineered production workflows with fallback paths from frontier LLMs (OpenAI/Gemini/Claude) to deterministic pipelines.
+- **Finance Analyst Intern** — [Candor Investing](https://shreyas-six.vercel.app/)
+  - Conducted equity and mutual fund research, market analysis, and automated financial report modeling.
+
+---
+
+## 📂 Featured Shipped Builds
+
+### ✉️ [Email Sequencing Module (Email Seq)](https://github.com/shreyascoder2006/Email_Seq)
+> **Queue-Backed Automated Outreach Engine**
+- AI-driven email automation that autonomously schedules, ingests inboxes, and drafts contextual replies on-thread.
+- Engineered with a queue-backed architecture (**Redis + BullMQ**) ensuring zero duplicate sends or lost leads.
+- **Tech Stack:** React • TypeScript • Node.js • MongoDB • Redis • BullMQ • LLM APIs
+
+### ◉ [Nexus Carbon](https://github.com/shreyascoder2006/gandhinagar_hackout) — *Hack-Out DA-IICT Winner*
+> **Factory Decarbonisation & Circular Economy Marketplace**
+- Process-level emissions intake with LightGBM ML models for benchmark deviation and residual intervention sizing.
+- Includes an interactive **Three.js 3D plant digital twin** and economic transport radius byproduct marketplace.
+- **Tech Stack:** React 19 • Three.js • FastAPI • LightGBM • FAISS • Python • TailwindCSS
+
+### ▦ [Resort X](https://github.com/shreyascoder2006/resort_revenue_optimization)
+> **Revenue & Operational Intelligence for Hospitality**
+- Six composable decision engines: dynamic pricing, sentiment analysis, predictive maintenance, staff allocation, inventory, and an LLM concierge.
+- Built-in real-time scenario simulator computing operational before/after KPIs directly on dashboard state.
+- **Tech Stack:** Next.js • TypeScript • Gemini API • Claude API • Recharts • TailwindCSS
+
+### ⬢ Logi-X
+> **Logistics & Supply Chain Platform**
+- End-to-end logistics platform managing real-time shipment telemetry, automated order fulfillment, and warehouse status.
+- **Tech Stack:** Flask • Python • PostgreSQL • REST APIs • JavaScript
+
+### ◎ Smart Clubs Portal
+> **Campus Club Management & AI Poster Telemetry**
+- Full-stack club operations system with role-based dashboards, event lifecycle tracking, and Gemini OCR poster analytics.
+- **Tech Stack:** React • Node.js • Express • MongoDB • Gemini API • OCR • LangChain
+
+### ▲ SIPify
+> **Playlist-Style Mutual Fund & SIP Portfolios**
+- Simplified investment platform with curated SIP "playlists", one-tap instalment controls, streak tracking, and annual "SIPify Wrapped".
+- **Tech Stack:** React • Node.js • MongoDB • REST APIs • Portfolio Analytics
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+### 💻 Languages & Fundamentals
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
----
-
-## 🚀 What I Build
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI & Machine Learning
-- Machine Learning models
-- Deep Learning experiments
-- NLP applications
-- Data preprocessing & analysis
-- Intelligent systems
-- AI-powered security solutions
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Full Stack Development
-- Responsive web applications
-- Frontend interfaces
-- Backend APIs
-- Database-driven applications
-- Authentication systems
-- API integrations
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Automation
-- Workflow automation
-- Data processing pipelines
-- API integrations
-- Intelligent automation systems
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Problem Solving
-- Java DSA
-- Algorithmic thinking
-- Competitive programming
-- Data structures & algorithms
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Languages" />
+### 🤖 Generative AI, LLMs & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=ai&logoColor=white" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75C2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-### 🌐 Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="Web Development" />
+### 🌐 Full Stack & Backend Systems
+<p>
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
 </p>
 
-### 🤖 AI / ML & Data
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="AI/ML" />
+### 🗄️ Databases, Distributed Queues & DevOps
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/BullMQ-CC292B?style=for-the-badge&logo=bullmq&logoColor=white" alt="BullMQ" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-### 🗄️ Databases & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" alt="Databases and Tools" />
-</p>
+</div>
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Insights & Activity
 
-### 📧 Mail Wizz
-Architecture and implementation of an **Email Sequencing Module** — built as part of a B2B SaaS sales intelligence and outreach automation platform, covering scheduling, queuing, and delivery infrastructure.
-* **Focus:** Node.js/MongoDB • Redis • BullMQ • SMTP/IMAP • Distributed Systems
----
-### 🎬 MoodBoard.ai
-An **Agentic AI-driven platform** that autonomously discovers trending audio, tracks niche competitors, and generates high-retention scripts, captions, and visual assets for Instagram Posts & Reels. Unlike standard prompt-based generators, this platform utilizes a **multi-agent architecture** (Trend Scout, Brand Strategist, Creative Director, and Performance Analyst) to continuously optimize your social media strategy and deliver production-ready content briefs entirely on autopilot.
-* **Focus:** Multi-Agent Systems • GenAI • Social Media Automation • Content Strategy
----
-### 🛡️ SENTINEL — Phishing Detection System
-An intelligent phishing detection system designed to analyze potentially malicious content using a **hybrid detection approach** involving machine learning and risk analysis.
-* **Focus:** Machine Learning • Cybersecurity • NLP • Backend Systems
----
-
-## 📊 GitHub Stats
+<div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyascoder2006&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyascoder2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyascoder2006&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyascoder2006&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyascoder2006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyascoder2006&layout=compact&theme=tokyonight&hide_border=true" height="155" alt="Top Languages" />
 </p>
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
 ```text
-🤖 Exploring Machine Learning & AI
-🛡️ Building intelligent cybersecurity solutions
-🌐 Developing Full Stack Applications
-🧠 Improving Data Structures & Algorithms
-⚙️ Creating Automation Solutions
-🚀 Building and participating in Hackathons
+⚡ Building Production Multi-Agent Workflows with LangChain & CrewAI
+🌐 Shipping Full-Stack Resilient Applications with Next.js & FastAPI
+📊 Scaling Vector Search & Retrieval-Augmented Generation (RAG)
+🚀 Competing in National Hackathons & ICPC Contests
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## 📬 Let's Connect
 
-| Category | Tools |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **DevOps & Cloud** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
-| **Automation & Analytics** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Design & Creative** | ![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=figma&logoColor=white) |
+<div align="center">
+
+I'm open for **internships**, **freelance engineering builds**, and **high-impact collaborations**.
+
+<p align="center">
+  <a href="https://shreyas-six.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-shreyas--six.vercel.app-FF5A1F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:shreyaskale06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-shreyaskale06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://shreyas-six.vercel.app/assets/Shreyas_Kale_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-2F6BFF?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://github.com/shreyascoder2006" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://shreyas-six.vercel.app/">Shreyas Kale</a> | Built with precision & relentless curiosity</i>
+</p>
+
+</div>
